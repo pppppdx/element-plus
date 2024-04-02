@@ -4,6 +4,7 @@
       :data="tableData"
       style="width: 100%; margin-bottom: 20px"
       row-key="id"
+      :indent="10"
       border
       default-expand-all
     >
